@@ -20,15 +20,19 @@ The ethical use of OSINT means respecting privacy and legality, focusing on info
 Ethical hackers document their findings and provide insights to organizations on how to mitigate any discovered vulnerabilities or security gaps, enhancing the overall security posture of the organization.
 
 ## Passive Recon Tools:
-- [AMass](https://github.com/OWASP/Amass)
+- [AMass](https://github.com/owasp-amass/amass)
+- [Breach House](https://breach.house/) - Search ransomware victims, data breaches and stealer logs by keyword.
 - [Deepinfo (commercial tool)](https://deepinfo.com)
 - [EXIF Editor](https://exifeditor.io)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [ExtractMetadata](http://www.extractmetadata.com)
 - [Findsubdomains](https://findsubdomains.com/)
 - [FOCA](https://elevenpaths.com)
+- [Have I Been Ransomed?](https://haveibeenransom.com/) - Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or data breaches.
 - [IntelTechniques](https://inteltechniques.com)
 - [Maltego](https://www.paterva.com/web7/)
+- [Opsis](https://useopsis.com/) - Finds the accounts linked to an email address, username or domain across 1000+ source modules (reverse email lookup). Freemium.
+- [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted OSINT platform with a web dashboard: domains, IPs, emails, phone numbers and usernames across 22+ modules, with an exposure score, entity graph and HTML/PDF reports.
 - [Recon-NG](https://github.com/lanmaster53/recon-ng)
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
@@ -66,6 +70,7 @@ Ethical hackers document their findings and provide insights to organizations on
 | searchcode.com      | Codes Search       |
 | urlscan.io          | Threat Intelligence|
 | publicwww.com       | Codes Search       |
+| searchwebcode.com   | Source Code Search |
 | fullhunt.io         | Attack Surface     |
 | socradar.io         | Threat Intelligence|
 | binaryedge.io       | Attack Surface     |
@@ -73,6 +78,7 @@ Ethical hackers document their findings and provide insights to organizations on
 | crt.sh              | Certificate Search|
 | vulners.com         | Vulnerabilities    |
 | pulsedive.com       | Threat Intelligence|
+| scanmalware.com     | Threat Intelligence|
 
 ### Website Exploration and "Google Hacking"
 - censys : https://censys.io
@@ -114,6 +120,8 @@ Ethical hackers document their findings and provide insights to organizations on
 ### Social Media
 * [A tool to scrape LinkedIn](https://github.com/dchrastil/TTSL)
 * [cree.py](https://github.com/ilektrojohn/creepy)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
+* [twtData](https://twtdata.com/) - Export a public X (Twitter) account's followers, following or tweets to CSV (paid per export).
 
 ### Acquisitions and 
 - [OCCRP Aleph](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.

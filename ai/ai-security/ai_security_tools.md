@@ -39,6 +39,7 @@ _Products that intercept prompts and responses and apply security or privacy rul
 - [DynamoGuard](https://dynamo.ai/platform/dynamoguard) - Identify / defend against any type of non-compliance as defined by your specific AI policies and catch attacks.
 - [Skyflow LLM Privacy Vault](https://www.skyflow.com/product/llm-privacy-vault) - Redacts PII from prompts flowing to LLMs.
 - [Guardrails AI](https://www.guardrailsai.com) - Guardrails runs Input/Output Guards in your application that detect, quantify and mitigate the presence of specific types of risks. [![code](https://img.shields.io/github/license/guardrails-ai/guardrails)](https://github.com/guardrails-ai/guardrails/)
+- [isMalicious Prompt-Injection Scanner](https://ismalicious.com/prompt-injection-scanner) - Hosted API that scans untrusted text for prompt injection and checks the reputation of the links it contains before an AI agent acts on it. Also available as an MIT-licensed MCP server. [![code](https://img.shields.io/github/license/hexablob/ismalicious-mcp-server)](https://github.com/hexablob/ismalicious-mcp-server/)
 
 ## AI Red Teaming Guidance
 - [OWASP's GenAI Red Teaming Guide](https://genaisecurityproject.com/resource/genai-red-teaming-guide/) - guide includes four areas: model evaluation, implementation testing, infrastructure assessment, and runtime behavior analysis.
@@ -49,6 +50,7 @@ _Products that intercept prompts and responses and apply security or privacy rul
 ## AI Red Teaming Datasets
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
+- [AgentShield Benchmark](https://github.com/doronp/agentshield-benchmark) - an open Apache-2.0 corpus of 537 test cases (472 agent attacks plus 65 benign over-refusal controls) covering prompt injection, jailbreak, data exfiltration, tool abuse, multi-agent and provenance, with a TypeScript runner that scores agent security guardrail products head to head; maintained by the Agent Guard team, whose own product currently ranks first on it
 
 ## GenAI Security Standards and Solution Landscapes
 

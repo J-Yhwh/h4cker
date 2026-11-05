@@ -44,9 +44,18 @@
   hashes and scan reports.
 * [Multi rbl](http://multirbl.valli.org/) - Multiple DNS blacklist and forward
   confirmed reverse DNS lookup over more than 300 RBLs.
+* [NetAPI](https://netapi.com/) - Domain lists per TLD with nameservers, IP and
+  WHOIS dates, daily lists of newly registered domains, domain and reverse IP
+  lookup, and free feeds of compromised domains and IPs (plain text, no signup).
 * [NormShield Services](https://services.normshield.com/) - Free API Services
   for detecting possible phishing domains, blacklisted ip addresses and breached
   accounts.
+* [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) - Free
+  check of which lookalike domains of a brand are already registered and
+  resolving. No signup.
+* [ScanMalware](https://scanmalware.com) - Free URL scanner that renders pages
+  in a sandboxed browser, with a searchable archive of past scans for pivoting
+  by domain, IP, ASN, JARM or favicon hash.
 * [SpamCop](https://www.spamcop.net/bl.shtml) - IP based spam block list.
 * [SpamHaus](https://www.spamhaus.org/lookup/) - Block list based on
   domains and IPs.
@@ -249,6 +258,7 @@
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community
 * [Cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api) - A Python library to control a cuckoo-modified sandbox
 * [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Hybrid-Analysis is a free powerful online sandbox by Payload Security
+* [Malwagon](https://malwagon.com) - Malwagon is an online sandbox that detonates files and URLs on instrumented Windows and Linux virtual machines and returns behaviour, indicators and ATT&CK mappings, with a free community tier
 * [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats
 * [Metadefender Cloud](https://www.metadefender.com) - Metadefender is a free threat intelligence platform providing multiscanning, data sanitization and vulnerability assesment of files
